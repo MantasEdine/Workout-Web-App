@@ -1,0 +1,36 @@
+.inputs {
+  width: 50%;
+  float: right;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 5rem 1rem;
+}
+.inputholder {
+  padding: 1rem 1rem;
+  margin: 1rem 0;
+  font-size: 1rem;
+}
+.labels {
+  font-size: 2rem;
+  color: aqua;
+}
+.inputholder:hover {
+  background-color: beige;
+  border-radius: 5px;
+}
+.use {
+  font-size: 1.5rem;
+  color: aqua;
+}
+.submit {
+  height: 4.5vh;
+  background-color: beige;
+  font-size: 22px;
+  border-radius: 3px;
+}
+.submit:hover {
+  background-color: maroon;
+  color: aqua;
+  cursor: pointer;
+}

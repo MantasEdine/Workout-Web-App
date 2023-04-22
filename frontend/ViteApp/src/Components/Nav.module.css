@@ -1,0 +1,10 @@
+.navdiv {
+  width: 100%;
+  height: 14.3vh;
+  background-color: lightgreen;
+  padding: 2rem 4rem;
+}
+.title {
+  font-size: 23px;
+  font-weight: 700;
+}
